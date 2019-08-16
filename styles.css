@@ -1,0 +1,18 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+}
+
+body div {
+    text-align: center;
+    padding: 130px;
+}
+
+.profile-photo{
+    
+    display: block;
+    max-width: 150px;
+    margin: 0 auto 30px;
+    border-radius: 50%;
+    border:5px solid white;
+}
